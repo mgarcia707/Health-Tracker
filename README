@@ -1,0 +1,15 @@
+The following file is a README for our project submitted for HackDavis 2016.
+Our team consists of the following members: Michael Garcia, Sahil Faruque, and Smayan Daruka.
+Our team name is: Team Alexa.
+Project description: We hacked on the Amazon echo. Our project falls in the health and wellness category.
+Our project is a fun and unique way to keep track of key nutritional values in your everyday life. 
+With the help of the sample templates from Amazon we were successfuly able to create our own unique project 
+that incorporated a database.
+Files submitted:
+. AlexaSkill.js
+. index.js
+. healthTracker.js
+. intentHandler.js
+. eventHandler.js
+. textHelper.js 
+. storage.js
