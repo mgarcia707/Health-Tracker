@@ -5,6 +5,8 @@ Project description: We hacked on the Amazon echo. Our project falls in the heal
 Our project is a fun and unique way to keep track of key nutritional values in your everyday life. 
 With the help of the sample templates from Amazon we were successfuly able to create our own unique project 
 that incorporated a database.
+Our project uses the following sample template from Amazon as starter code:
+https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/scoreKeeper
 Files submitted:
 . AlexaSkill.js
 . index.js
