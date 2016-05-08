@@ -1,0 +1,98 @@
+ResetNutritionIntent clear
+ResetNutritionIntent clear a
+ResetNutritionIntent clear a type
+ResetNutritionIntent clear all
+ResetNutritionIntent clear all types
+
+NewGameIntent begin a game
+NewGameIntent begin a new game
+NewGameIntent begin game
+NewGameIntent begin new game
+NewGameIntent create a game
+NewGameIntent create a new game
+NewGameIntent create game
+NewGameIntent create new game
+NewGameIntent do a game
+NewGameIntent do a new game
+NewGameIntent do game
+NewGameIntent do new game
+NewGameIntent make a game
+NewGameIntent make a new game
+NewGameIntent make game
+NewGameIntent make new game
+NewGameIntent new game
+NewGameIntent open a game
+NewGameIntent open a new game
+NewGameIntent open game
+NewGameIntent open new game
+NewGameIntent restart
+NewGameIntent restart game
+NewGameIntent set up a game
+NewGameIntent set up a new game
+NewGameIntent set up game
+NewGameIntent set up new game
+NewGameIntent begin score
+NewGameIntent create score
+NewGameIntent do score
+NewGameIntent make score
+NewGameIntent open score
+NewGameIntent set up score
+NewGameIntent start a game
+
+TellScoresIntent first
+TellScoresIntent first place
+TellScoresIntent give me the numbers
+TellScoresIntent give me the scoreboard
+TellScoresIntent give us who is in the lead
+TellScoresIntent how do our scores look
+TellScoresIntent last
+TellScoresIntent last place
+TellScoresIntent leaderboard
+TellScoresIntent list current points
+TellScoresIntent loser
+TellScoresIntent numbers
+TellScoresIntent points
+TellScoresIntent rankings
+TellScoresIntent read the standing
+TellScoresIntent recite the points
+TellScoresIntent say the numbers
+TellScoresIntent share our current numbers
+TellScoresIntent standing
+TellScoresIntent state our standing
+TellScoresIntent state the winner
+TellScoresIntent tell me current score
+TellScoresIntent tell me the current score
+TellScoresIntent tell me the score
+TellScoresIntent tell us current score
+TellScoresIntent tell us the current score
+TellScoresIntent tell us the score
+TellScoresIntent tell us who's losing
+TellScoresIntent tell us who's winning
+TellScoresIntent the current score
+TellScoresIntent the ranking
+TellScoresIntent the score
+TellScoresIntent view points
+TellScoresIntent what is the score
+TellScoresIntent what points does everyone have
+TellScoresIntent what scores do everyone have
+TellScoresIntent what's the score
+TellScoresIntent which one of us is in first place
+TellScoresIntent which one of us is winning
+TellScoresIntent who is leading
+TellScoresIntent who's got the most points
+TellScoresIntent who's in the lead
+TellScoresIntent winner
+
+AddNutritionIntent add nutrition {NutritionName}
+AddNutritionIntent add {NutritionName}
+AddNutritionIntent add {NutritionName} to the data
+AddNutritionIntent add nutrition {NutritionName} to the data
+AddNutritionIntent add {NutritionName} to the data
+AddNutritionIntent {NutritionName}
+
+AddScoreIntent add {ScoreNumber} to {NutritionName}
+AddScoreIntent {ScoreNumber} more for {NutritionName}
+AddScoreIntent {ScoreNumber} for {NutritionName}
+AddScoreIntent give {NutritionName} {ScoreNumber} more 
+AddScoreIntent {ScoreNumber} more for {NutritionName}
+AddScoreIntent {ScoreNumber} for {NutritionName}

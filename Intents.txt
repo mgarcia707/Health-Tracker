@@ -1,0 +1,44 @@
+{
+  "intents": [
+    {
+      "intent": "AddNutritionIntent",
+      "slots": [
+        {
+          "name": "NutritionName",
+          "type": "LIST_OF_NUTRITION_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AddScoreIntent",
+      "slots": [
+        {
+          "name": "NutritionName",
+          "type": "LIST_OF_NUTRITION_NAMES"
+        },
+        {
+          "name": "ScoreNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ResetNutritionIntent"
+    },
+    {
+      "intent": "NewGameIntent"
+    },
+    {
+      "intent": "TellScoresIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
